@@ -20,3 +20,8 @@ This action returns all users
 This action returns all users
 {"statusCode":429,"message":"ThrottlerException: Too Many Requests"}
 ```
+
+### Other Notes
+
+- OS: Mac Sonoma 14.1
+- Using Fastify
