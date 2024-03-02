@@ -3,7 +3,7 @@
 1. Clone the repository
 2. Run `npm i`
 3. Run `npm run start:dev`
-4. Make an HTTP request to http://localhost:8000/api/users
+4. Make 4 HTTP requests to http://localhost:8000/api/users within 1 second
 
 ## Expected behavior
 
